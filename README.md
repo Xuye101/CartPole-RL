@@ -1,6 +1,4 @@
-请直接点击代码块右上角的 **“复制代码” (Copy code)**，然后粘贴到一个新建的空文件中，保存命名为 `README.md` 即可：
 
-```markdown
 # 🤸‍♂️ CartPole-RL: Robust Online & Offline Implementations
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
